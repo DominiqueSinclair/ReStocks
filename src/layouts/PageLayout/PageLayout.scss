@@ -1,0 +1,25 @@
+.wrapper {
+  position: relative;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+
+  h1 {
+    display: block;
+    width: 100%;
+
+  }
+  .page-layout__viewport {
+    padding-top: 4rem;
+    display: flex;
+    position: relative;
+    width: 100vw;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .page-layout__nav-item--active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+}

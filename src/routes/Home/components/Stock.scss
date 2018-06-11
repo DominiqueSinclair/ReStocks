@@ -1,0 +1,21 @@
+.stocks-table--container {
+  .stocks--grid {
+    font-size: 0.7rem;
+    padding: 0.5rem;
+
+    table {
+      td, th {
+        padding: 5px;
+      }
+
+      td {
+        text-align: right;
+      }
+    }
+  }
+  .btn.btn-secondary {
+    position: fixed;
+    top: 8px;
+    right: 5px;
+  }
+}

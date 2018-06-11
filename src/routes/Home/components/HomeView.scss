@@ -1,0 +1,15 @@
+.page-layout__viewport {
+  position: relative;
+  width: 100vw;
+
+  .stocks--container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding: 0 1em;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    min-height: 500px;
+  }
+}

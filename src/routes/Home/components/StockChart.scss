@@ -1,0 +1,18 @@
+.stocks-graph--container {
+  position: relative;
+  flex-grow: 1;
+  height: 300px;
+  width: auto;
+
+  .stocks--grid {
+    .table {
+      tr {
+        th, td {
+          padding: 5px;
+          text-align: center;
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "baseURL": "http://127.0.0.1:8000",
+  "headers": {
+    "Accept": "application/json; charset=utf-8",
+    "Content-Type": "application/json"
+  }
+}
