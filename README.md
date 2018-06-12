@@ -62,7 +62,7 @@ The project structure presented in this boilerplate is **fractal**, where functi
 │   │   │   ├── modules      # Collections of reducers/constants/actions
 │   │   │   ├── components   # Presentational React Components
 │   │   │   └── routes **    # Fractal sub-routes (** optional)
-│   ├── reduces              # Global Reusable reducers
+│   ├── reducers             # Global Reusable reducers
 │   ├── store                # Redux-specific pieces
 │   │   ├── createStore.js   # Create and instrument redux store
 │   │   └── reducers.js      # Reducer registry and injection
